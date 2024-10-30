@@ -7,6 +7,8 @@ $\mathbb{C}$: the set of complex numbers
 
 I'm going to skip writing this part for now, and trust that we can fill it in later. Let's just agree that $\mathbb{R}$ is a field. 
 
+[This is an example of an edit to test versioning on this markdown file]
+
 # Key Idea: Polynomials over a Field, Roots, and Irreducibility
 
 A polynomial over a field is a polynomial whose coefficients are in the field.  
